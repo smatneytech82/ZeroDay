@@ -25,4 +25,4 @@ No external libraries required.
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
+git clone https://github.com/smatneytech82/ZeroDay.git
